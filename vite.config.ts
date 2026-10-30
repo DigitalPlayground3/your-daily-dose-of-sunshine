@@ -15,7 +15,7 @@ import react from "@vitejs/plugin-react";
  * If you deploy to a custom domain or a "username.github.io"
  * repository, change REPO_NAME to "" (an empty string).
  */
-const REPO_NAME = "bunnys-little-comfort-house";
+const REPO_NAME = "your-daily-dose-of-sunshine";
 
 export default defineConfig(({ command, isPreview }) => ({
   plugins: [react()],
